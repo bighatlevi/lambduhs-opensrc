@@ -1,0 +1,162 @@
+[
+    {
+        "Tier": "Alpha",
+        "Wool": "Blue",
+        "Face": "Sunglasses",
+        "Body": "Lab Coat",
+        "Head": "Sage Hat",
+        "tokenId": 0
+    },
+    {
+        "Tier": "Gamma",
+        "Wool": "Purple",
+        "Face": "Okay",
+        "Body": "Parka",
+        "Head": "Fish Cap",
+        "tokenId": 1
+    },
+    {
+        "Tier": "Epsilon",
+        "Wool": "Green",
+        "Face": "Tongue",
+        "Body": "Scarf",
+        "Head": "Skull Clip",
+        "tokenId": 2
+    },
+    {
+        "Tier": "Beta",
+        "Wool": "Black",
+        "Face": "Pixelated",
+        "Body": "Candy Hoodie",
+        "Head": "Spartan Helmet",
+        "tokenId": 3
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Red",
+        "Face": "Hungry",
+        "Body": "Taco Shirt",
+        "Head": "Night Goggles",
+        "tokenId": 4
+    },
+    {
+        "Tier": "Epsilon",
+        "Wool": "Pink",
+        "Face": "Heartglasses",
+        "Body": "Flower Lei",
+        "Head": "Tiara",
+        "tokenId": 5
+    },
+    {
+        "Tier": "Gamma",
+        "Wool": "Orange",
+        "Face": "Autopilot",
+        "Body": "Rune Robe",
+        "Head": "Fire Hat",
+        "tokenId": 6
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Pink",
+        "Face": "Hungry",
+        "Body": "Zip Hoodie",
+        "Head": "Police Hat",
+        "tokenId": 7
+    },
+    {
+        "Tier": "Gamma",
+        "Wool": "Cyan",
+        "Face": "Smile",
+        "Body": "Scuba Suit",
+        "Head": "Sage Hat",
+        "tokenId": 8
+    },
+    {
+        "Tier": "Epsilon",
+        "Wool": "Red",
+        "Face": "Smile",
+        "Body": "Kevlar Vest",
+        "Head": "Cowboy Hat",
+        "tokenId": 9
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Red",
+        "Face": "Happy",
+        "Body": "Turtleneck",
+        "Head": "Fish Cap",
+        "tokenId": 10
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Green",
+        "Face": "Autopilot",
+        "Body": "Tuxedo",
+        "Head": "Head Mirror",
+        "tokenId": 11
+    },
+    {
+        "Tier": "Epsilon",
+        "Wool": "Blue",
+        "Face": "Galaxy",
+        "Body": "Baasa Shirt",
+        "Head": "Straw Hat",
+        "tokenId": 12
+    },
+    {
+        "Tier": "Gamma",
+        "Wool": "Purple",
+        "Face": "Smug",
+        "Body": "Flower Lei",
+        "Head": "Spartan Helmet",
+        "tokenId": 13
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Brown",
+        "Face": "Smile",
+        "Body": "Overalls",
+        "Head": "Crown",
+        "tokenId": 14
+    },
+    {
+        "Tier": "Beta",
+        "Wool": "Blue",
+        "Face": "Jim",
+        "Body": "Lab Coat",
+        "Head": "Tiara",
+        "tokenId": 15
+    },
+    {
+        "Tier": "Beta",
+        "Wool": "Pink",
+        "Face": "Galaxy",
+        "Body": "Dress",
+        "Head": "Spartan Helmet",
+        "tokenId": 16
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Blue",
+        "Face": "Warrior",
+        "Body": "Tuxedo",
+        "Head": "Bucket Hat",
+        "tokenId": 17
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Cyan",
+        "Face": "Disappointed",
+        "Body": "Tuxedo",
+        "Head": "Bucket Hat",
+        "tokenId": 18
+    },
+    {
+        "Tier": "Delta",
+        "Wool": "Purple",
+        "Face": "Dumbfounded",
+        "Body": "Turtleneck",
+        "Head": "Police Hat",
+        "tokenId": 19
+    }
+]
